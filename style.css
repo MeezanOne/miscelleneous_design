@@ -62,7 +62,7 @@
     top: 20px;right: 10px;
 }
 .circled_item.lead{
-    top: 113px;right: -22px;
+    top: 123px;right: -22px;
 }
 .circled_item.offers{
     top: 41px; left: 68px;
@@ -98,6 +98,9 @@
     .animated_beam_container{
         scale: .7;
     }
+    .circled_item.lead{
+        top: 127px;right: -22px;
+    }
 }
 @media (max-width:370px) {
     .circled_item{
@@ -111,7 +114,7 @@
         top: 20px;right: -25px;
     }
     .circled_item.lead{
-        top: 105px;right: -22px;
+        top: 130px;right: -22px;
     }
     .circled_item.offers{
         top: 41px; left: 68px;
@@ -137,7 +140,7 @@
         top: 20px;right: -25px;
     }
     .circled_item.lead{
-        top: 105px;right: -22px;
+        top: 130px;right: -30px;
     }
     .circled_item.offers{
         top: 41px; left: 68px;
