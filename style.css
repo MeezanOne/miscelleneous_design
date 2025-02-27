@@ -71,6 +71,7 @@
     top: 41px; left: 68px;
 }
 .circled_item.you{
+    border: 1px solid #DF000D;
     top: 122px; left: -20px;
 }
 .circled_item.need{
