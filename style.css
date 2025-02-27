@@ -100,8 +100,33 @@
     .animated_beam_container{
         scale: .7;
     }
+    .circled_item{
+        height: 54px;
+        width: 54px;
+    }
+    .circled_item.customer{
+        top: -30px;right: 100px;
+    }
+    .circled_item.customers{
+        top: 17px;right: 10px;
+    }
+    .circled_item.offers{
+        top: 37px; left: 68px;
+    }
+    .circled_item.you{
+        top: 120px; left: -20px;
+    }
+    .circled_item.need{
+        bottom: 68px; left: 67px;
+    }
+    .circled_item.ref1{
+        bottom: 40px; right: 43px;
+    }
+    .circled_item.ref2{
+        bottom: -13px; right: 138px;
+    }
     .circled_item.lead{
-        top: 127px;right: -22px;
+        top: 125px;right: -22px;
     }
 }
 @media (max-width:370px) {
