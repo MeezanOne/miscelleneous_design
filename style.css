@@ -55,6 +55,7 @@
 }
 .circled_item:hover{
     border: 1px solid #DF000D;
+    box-shadow: 4px 1px 10px 0px #F31E261A;
     scale: 1.04;
 }
 .circled_item.customer{
